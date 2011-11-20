@@ -7,11 +7,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*THEME* FoxHound Style",
+            "name": "*Kernel* AbyssPlus_2.0",
             "version": "2.6",
-            "description": "Theme FoxHound Edition 2.6",
+            "description": "AbyssPlusKernel_2.0",
             "branch": "S",
-            "filename": "Theme_Batista70_FoxHound_2.6_Universal.zip",
+            "filename": "AbyssPlusKernel20.zip",
             "Screenshots": [""
             ]
         },
