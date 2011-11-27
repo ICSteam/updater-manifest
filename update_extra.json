@@ -7,11 +7,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*Kernel* AbyssPlus",
-            "version": "2.0",
-            "description": "AbyssPlusKernel_2.0",
+            "name": "*Theme* Restore theme",
+            "version": "KJ3",
+            "description": "Restore Theme for XWKJ3",
             "branch": "S",
-            "filename": "AbyssPlusKernel20.zip",
+            "filename": "Restore_theme_4seasons.zip",
             "Screenshots": [""
             ]
         },
