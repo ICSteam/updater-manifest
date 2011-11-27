@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://lnx.italiancustomstyle.com/SnakesCustomRom/FoxHound_Updates/"
+	"http://lnx.italiancustomstyle.com/IcsTeam/IcsUpdate/"
     ],
     "UpdateList": [
     	
@@ -13,6 +13,17 @@
             "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
             "branch": "E",
             "filename": "Batista70_FoxHound_Edition_2.6_By_SnakeS.zip"
+        },
+
+    {   
+            "mod": "GT-I9100",
+            "board": "GT-I9100",
+            "type": "*THEME* Restore The Original 4Seasons Theme ",
+            "name": "Original Theme 4Season",
+            "version": "2.6",
+            "description": "Restore the original theme 4 seasons",
+            "branch": "E",
+            "filename": "Restore_theme_4seasons.zip"
         },
        
     ]
