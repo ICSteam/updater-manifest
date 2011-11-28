@@ -8,22 +8,11 @@
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
-            "name": "Batista70 2.6 FoxHound",
-            "version": "2.6",
+            "name": "",
+            "version": "",
             "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
             "branch": "E",
-            "filename": "Batista70_FoxHound_Edition_2.6_By_SnakeS.zip"
-        },
-
-    {   
-            "mod": "GT-I9100",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Original Theme 4Season",
-            "version": "1.0",
-            "description": "Restore the original theme 4 seasons",
-            "branch": "E",
-            "filename": "Restore_theme_4seasons.zip"
+            "filename": ""
         },
        
     ]
