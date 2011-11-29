@@ -1,6 +1,6 @@
 {
     "MirrorList": [
-	"http://lnx.italiancustomstyle.com/IcsTeam/IcsUpdate/"
+	"http://lnx.italiancustomstyle.com/Home/wp-content/ICSteam/ROM"
     ],
     "UpdateList": [
     	
@@ -8,7 +8,7 @@
             "mod": "GT-I9100",
             "board": "GT-I9100",
             "type": "rom",
-            "name": "",
+            "name": "ItalianCustomStyle",
             "version": "",
             "description": "Based on OFFICIAL XWKJ3|Android 2.3.5|",
             "branch": "E",
