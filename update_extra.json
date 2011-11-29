@@ -20,11 +20,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*RESTORE RESTORE APP SAMSUNG KJ2/KJ3* Meteo Services",
+            "name": "*tema giallo* tema giallo",
             "version": "KJ3",
             "description": "Meteo Serivices",
             "branch": "S",
-            "filename": "KJ2_AccuWeatherDaemonService.zip",
+            "filename": "Theme_Yellow_Universal_FoxHound.zip",
             "Screenshots": [
             ]
         },
