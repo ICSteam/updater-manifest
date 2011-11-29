@@ -15,6 +15,19 @@
             "Screenshots": [
             ]
         },
+        
+        {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*RESTORE RESTORE APP SAMSUNG KJ2/KJ3* Meteo Services",
+            "version": "KJ3",
+            "description": "Meteo Serivices",
+            "branch": "S",
+            "filename": "KJ2_AccuWeatherDaemonService.zip",
+            "Screenshots": [
+            ]
+        },
     	    	    
                ]
 }
