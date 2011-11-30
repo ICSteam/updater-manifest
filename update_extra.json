@@ -3,6 +3,54 @@
 	"http://lnx.italiancustomstyle.com/Home/wp-content/ICSteam/extra"
     ],
     "UpdateList": [
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*Theme* Autumn",
+            "version": "KJ3",
+            "description": "Autumn 4Season Theme",
+            "branch": "S",
+            "filename": "Autumn_4Season_Theme.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*Theme* Winter",
+            "version": "KJ3",
+            "description": "Winter 4Season Theme",
+            "branch": "S",
+            "filename": "Winter_4Season_Theme.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*Theme* Spring",
+            "version": "KJ3",
+            "description": "Spring 4Season Theme",
+            "branch": "S",
+            "filename": "Spring_4Season_Theme.zip",
+            "Screenshots": [
+            ]
+        },
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*Theme* Summer",
+            "version": "KJ3",
+            "description": "Summer 4Season Theme",
+            "branch": "S",
+            "filename": "Summer_4Season_Theme.zip",
+            "Screenshots": [
+            ]
+        },
     	           {   
             "mod": "*",
             "board": "GT-I9100",
@@ -12,19 +60,6 @@
             "description": "Restore Theme for XWKJ3",
             "branch": "S",
             "filename": "Restore_theme_4seasons.zip",
-            "Screenshots": [
-            ]
-        },
-        
-        {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*tema giallo* tema giallo",
-            "version": "KJ3",
-            "description": "Meteo Serivices",
-            "branch": "S",
-            "filename": "Theme_Yellow_Universal_FoxHound.zip",
             "Screenshots": [
             ]
         },
