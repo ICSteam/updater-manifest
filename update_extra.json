@@ -9,7 +9,7 @@
             "type": "extra",
             "name": "*Theme* Autumn",
             "version": "KJ3",
-            "description": "Autumn 4Season Theme",
+            "description": "Autumn 4Seasons Theme",
             "branch": "S",
             "filename": "Autumn_4Season_Theme.zip",
             "Screenshots": ["http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno1.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno2.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno3.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno4.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno5.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno6.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno7.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno8.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno9.png",
@@ -22,7 +22,7 @@
             "type": "extra",
             "name": "*Theme* Winter",
             "version": "KJ3",
-            "description": "Winter 4Season Theme",
+            "description": "Winter 4Seasons Theme",
             "branch": "S",
             "filename": "Winter_4Season_Theme.zip",
             "Screenshots": [
@@ -34,7 +34,7 @@
             "type": "extra",
             "name": "*Theme* Spring",
             "version": "KJ3",
-            "description": "Spring 4Season Theme",
+            "description": "Spring 4Seasons Theme",
             "branch": "S",
             "filename": "Spring_4Season_Theme.zip",
             "Screenshots": [
@@ -46,24 +46,12 @@
             "type": "extra",
             "name": "*Theme* Summer",
             "version": "KJ3",
-            "description": "Summer 4Season Theme",
+            "description": "Summer 4Seasons Theme",
             "branch": "S",
             "filename": "Summer_4Season_Theme.zip",
             "Screenshots": [
-            ]
-        },
-    	           {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*Theme* Restore theme",
-            "version": "KJ3",
-            "description": "Restore Theme for XWKJ3",
-            "branch": "S",
-            "filename": "Restore_theme_4seasons1.zip",
-            "Screenshots": [
-            ]
-        },
+        
+           
     	    	    
                ]
 }
