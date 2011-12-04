@@ -52,19 +52,22 @@
             "Screenshots": [ 
             ]
          },
-                                     {   
+
+
+
+ {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*THEME* Restore Original theme 4Seasons",
+            "name": "*THEME* Restore Original theme 4seasons",
             "version": "XWKK5 ",
-            "description": "RESTORE ORIGINAL THEME 4SEASONS",
+            "description": "Restore Original theme 4Seasons",
             "branch": "S",
             "filename": "Restore_Teme_4Seasons.zip",
             "Screenshots": [
-                    
-]
-   },                  
+            ]
+        },
+                
                     {   
             "mod": "*",
             "board": "GT-I9100",
