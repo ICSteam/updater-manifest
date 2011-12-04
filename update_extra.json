@@ -53,7 +53,18 @@
             ]
          },
 
-
+                        {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*THEME* Restore Original teme 4Seasons",
+            "version": "XWKK5",
+            "description": "Restore Original teme 4Seasons",
+            "branch": "S",
+            "filename": "Restore_Teme_4Seasons.zip",
+            "Screenshots": [ 
+            ]
+         },
 
  
      ]
