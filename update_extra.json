@@ -60,7 +60,7 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*THEME* Restore Original theme 4seasons",
-            "version": "XWKK5 ",
+            "version": "XWKK5 "
             "description": "Restore Original theme 4Seasons",
             "branch": "S",
             "filename": "Restore_Teme_4Seasons.zip",
@@ -71,7 +71,7 @@
                     {   
             "mod": "*",
             "board": "GT-I9100",
-            "type": "extra",
+            "type": "extra"
             "name": "*EXTRA* No Big Image CALL",
             "version": "XWKK5",
             "description": "No big image on call for your contact",
@@ -83,4 +83,4 @@
         }
      ]
 
-       
+    }   
