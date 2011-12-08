@@ -79,19 +79,7 @@
 
           },
 
-                     {             
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*FIX* Restore MARKET",
-            "version": "1.0",
-            "description": "Restore Market Fix",
-            "branch": "S",
-            "filename": "FIX_Restore_market-3.3.12.zip",
-            "Screenshots": [ 
-            ]
-
-        },
+                     
 
  
      ]
