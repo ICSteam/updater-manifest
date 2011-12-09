@@ -80,8 +80,20 @@
           },
 
                      
-
+{   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "PolarisOffice",
+            "version": "",
+            "description": "Restores samsung PolarisOffice Full editor!  ",
+            "branch": "S",
+            "filename": "PolarisOffice_Pack.zip",
+            "Screenshots": [
+            ]
+	},
  
      ]
 
     }   
+
