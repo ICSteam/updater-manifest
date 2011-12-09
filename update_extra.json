@@ -93,18 +93,8 @@
             ]
 	},
  
-     {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "Samsung Calendar",
-            "version": "",
-            "description": "Restores samsung Calendar app!  ",
-            "branch": "S",
-            "filename": "TW_Calendar.zip",
-            "Screenshots": [
-            ]
-	},]
+     
+]
 
     }   
 
