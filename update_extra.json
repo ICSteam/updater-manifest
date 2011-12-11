@@ -65,7 +65,7 @@
             "Screenshots": [ 
             ]
          },
-                                {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -79,8 +79,34 @@
 
           },
 
-                     
-{   
+
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*HACK*CameraHack.zip",
+            "version": "XXKK5",
+            "description": "CameraHack",
+            "branch": "S",
+            "filename": "XXKK5_CameraHack.zip",
+            "Screenshots": [
+            ]
+        },
+
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*APP SAMSUNG*Samsung Voice-Commands",
+            "version": "",
+            "description": "Restores samsung Voice-Commands App!  ",
+            "branch": "S",
+            "filename": "TW_VoiceCommands.zip",
+            "Screenshots": [
+            ]
+        },
+                                  
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -92,7 +118,7 @@
             "Screenshots": [
             ]
 	},
-            {   
+                    {   
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
@@ -296,18 +322,7 @@
             "Screenshots": [
             ]
 	},
-            {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*APP SAMSUNG*Samsung Voice-Commands",
-            "version": "",
-            "description": "Restores samsung Voice-Commands App!  ",
-            "branch": "S",
-            "filename": "TW_VoiceCommands.zip",
-            "Screenshots": [
-            ]
-        },
+            
 
 
  
