@@ -394,6 +394,31 @@
             "Screenshots": [
             ]
         },
+        
+        {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per TRE",
+            "version": "NEKF3",
+            "description": "Modem consigliato Per TRE",
+            "branch": "S",
+            "filename": "modemNEKF3-tre.zip",
+            "Screenshots": [
+            ]
+        },
+        {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per TRE",
+            "version": "NEKI2",
+            "description": "Modem consigliato Per TRE",
+            "branch": "S",
+            "filename": "ModemNEKI2-tre.zip",
+            "Screenshots": [
+            ]
+        },
                     {
              "mod": "*",
             "board": "GT-I9100",
@@ -423,14 +448,25 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*MODEM* ",
-            "version": "Kg3",
+            "version": "KG3",
             "description": "Kg3",
             "branch": "S",
             "filename": "ModemKG3.zip",
             "Screenshots": [
             ]
         },      
-
+{
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM* Consigliato per wind ",
+            "version": "KG5",
+            "description": "Modem Consigliato per Wind",
+            "branch": "S",
+            "filename": "ModemKG5-wind.zip",
+            "Screenshots": [
+            ]
+        },  
 
  
      
