@@ -467,7 +467,30 @@
             "Screenshots": [
             ]
         },  
-
+{
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*MODEM*  ",
+            "version": "KG1",
+            "description": "",
+            "branch": "S",
+            "filename": "modemKG1.zip",
+            "Screenshots": [
+            ]
+        },  
+{
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra", 
+            "name": "*MODEM* Modem consigliato per Tim ",
+            "version": "KE4",
+            "description": "Modem consigliato per Tim",
+            "branch": "S",
+            "filename": "ModemKE4-tim.zip",
+            "Screenshots": [
+            ]
+        },  
  
      
 ]
