@@ -491,8 +491,30 @@
             "Screenshots": [
             ]
         },  
- 
-     
+ {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra", 
+            "name": "*MODEM* ",
+            "version": "KDH",
+            "description": "",
+            "branch": "S",
+            "filename": "modemKDH.zip",
+            "Screenshots": [
+            ]
+        },  
+      {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra", 
+            "name": "*MODEM* Consigliato per Wind ",
+            "version": "KL1",
+            "description": "Modem consigliato per Wind",
+            "branch": "S",
+            "filename": "ModemKL1.zip",
+            "Screenshots": [
+            ]
+        },  
 ]
 
     }   
