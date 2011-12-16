@@ -69,11 +69,24 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*EXTRA* No Big Image CALL",
+            "name": "*EXTRA* Remove Big Image CALL",
             "version": "XWKK5",
-            "description": "No big image on call for your contact",
+            "description": "Remove big image on call for your contact",
             "branch": "S",
             "filename": "No_Full_Screen_Image_CALL.zip",
+            "Screenshots": [ 
+            ]
+
+          },                  
+                    {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Big Image CALL",
+            "version": "XWKK5",
+            "description": "Insert Big image on call for your contact",
+            "branch": "S",
+            "filename": "Big_image_call.zip",
             "Screenshots": [ 
             ]
 
