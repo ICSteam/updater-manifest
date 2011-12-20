@@ -539,7 +539,19 @@
             "filename": "ModemKL1.zip",
             "Screenshots": [
             ]
-        },  
+        },
+          {
+             "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra", 
+            "name": "*MODEM* 4Seasons Spring",
+            "version": "1.1",
+            "description": "4Seasons theme + ringtones",
+            "branch": "S",
+            "filename": "Spring1.1.zip",
+            "Screenshots": [
+            ]
+        },
 ]
 
     }   
