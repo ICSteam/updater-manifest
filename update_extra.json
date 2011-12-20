@@ -552,19 +552,7 @@
             "Screenshots": [
             ]
         },
-        
-        {   
-            "mod": "*",
-            "board": "GT-I9100",
-            "type": "extra",
-            "name": "*THEME* 4Seasons Spring",
-            "version": "1.1 ",
-            "description": "Spring 4Seasons Theme + Ringtones",
-            "branch": "S",
-            "filename": "Spring1.1.zip",
-            "Screenshots": [
-            ]
-        },  
+         
 ]
 
     }   
