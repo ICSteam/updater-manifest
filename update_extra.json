@@ -8,10 +8,10 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*Theme* Autumn",
-            "version": "XWKK5",
-            "description": "Autumn 4Seasons Theme",
+            "version": "1.1",
+            "description": "Autumn 4Seasons Theme + Ringtones",
             "branch": "S",
-            "filename": "Autumn_4Season_Theme.zip",
+            "filename": "Autumn1.1.zip",
             "Screenshots": ["http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno1.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno2.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno3.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno4.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno5.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno6.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno7.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno8.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno9.png",
 "http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno10.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno11.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno12.png","http://www.italiancustomstyle.com/immagini/4Seasons/Autunno/Autunno13.png"
             ]
@@ -21,10 +21,10 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*THEME* Winter",
-            "version": "XWKK5 ",
-            "description": "Winter 4Seasons Theme",
+            "version": "1.1 ",
+            "description": "Winter 4Seasons Theme Ringtones",
             "branch": "S",
-            "filename": "Winter_4Season_Theme.zip",
+            "filename": "Winter1.1.zip",
             "Screenshots": [
             ]
         },
@@ -33,10 +33,10 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*THEME* Spring",
-            "version": "XWKK5",
-            "description": "Spring 4Seasons Theme",
+            "version": "1.1",
+            "description": "Spring 4Seasons Theme Ringtones",
             "branch": "S",
-            "filename": "Spring_4Season_Theme.zip",
+            "filename": "Spring1.1.zip",
             "Screenshots": [
             ]
         },
@@ -45,10 +45,10 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*THEME* Summer",
-            "version": "XWKK5",
-            "description": "Summer 4Seasons Theme",
+            "version": "1.1",
+            "description": "Summer 4Seasons Theme Ringtones",
             "branch": "S",
-            "filename": "Summer_4Season_Theme.zip",
+            "filename": "Summer1.1.zip",
             "Screenshots": [ 
             ]
          },
