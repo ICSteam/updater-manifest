@@ -3,6 +3,20 @@
 	"http://www.italiancustomstyle.com/Home/?dl_name=http://www.italiancustomstyle.com/Home/wp-content/ICSteam/Extra"
     ],
     "UpdateList": [
+    	
+    	
+    	{   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*FIX KERNEL* ABYSS PLUS 3.0",
+            "version": "3.0 ",
+            "description": "Abyss Pluss 3.0",
+            "branch": "S",
+            "filename": "AbyssPlusKernel30DefMod.zip",
+            "Screenshots": [
+            ]
+        },
                                           {              
             
             "mod": "*",
