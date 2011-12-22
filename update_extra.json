@@ -9,9 +9,9 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*FIX KERNEL* ABYSS PLUS 3.0",
+            "name": "*FIX KERNEL* Abyss Plus",
             "version": "3.0 ",
-            "description": "Abyss Pluss 3.0",
+            "description": "Resolve problem Freeze screen off",
             "branch": "S",
             "filename": "AbyssPlusKernel30DefMod.zip",
             "Screenshots": [
