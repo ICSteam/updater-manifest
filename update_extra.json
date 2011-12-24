@@ -9,11 +9,24 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*FIX KERNEL* Abyss Plus",
+            "name": "*FIX KERNEL* Abyss Plus Recovery 5",
             "version": "3.0 ",
-            "description": "Resolve problem Freeze screen off",
+            "description": "Resolve problem Freeze screen off ",
             "branch": "S",
             "filename": "AbyssPlusKernel30DefMod.zip",
+            "Screenshots": [
+            ]
+        },
+        	
+    	{   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*FIX KERNEL* Abyss Plus Recovery 4",
+            "version": "3.0 ",
+            "description": "Resolve problem Freeze screen off + fix ota",
+            "branch": "S",
+            "filename": "AbyssPlusKernel30DefModcw4.zip",
             "Screenshots": [
             ]
         },
