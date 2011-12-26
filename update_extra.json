@@ -421,7 +421,7 @@
             "version": "KI4",
             "description": "Modem consigliato Per Tim e Vodafone italia",
             "branch": "S",
-            "filename": "modemKI4-tim-voda.zip",
+            "filename": "modemKI4_tim_voda.zip",
             "Screenshots": [
             ]
         },
@@ -445,7 +445,7 @@
             "version": "KDJ",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
-            "filename": "modemKDJ-tim.zip",
+            "filename": "modemKDJ_tim.zip",
             "Screenshots": [
             ]
         },
@@ -457,7 +457,7 @@
             "version": "KE4",
             "description": "Modem consigliato Per Tim",
             "branch": "S",
-            "filename": "modemKE4-tim.zip",
+            "filename": "modemKE4_tim.zip",
             "Screenshots": [
             ]
         },
@@ -469,7 +469,7 @@
             "version": "NEKF2",
             "description": "Modem consigliato Per TRE",
             "branch": "S",
-            "filename": "modemNEKF2-tre.zip",
+            "filename": "modemNEKF2_tre.zip",
             "Screenshots": [
             ]
         },
@@ -482,7 +482,7 @@
             "version": "NEKF3",
             "description": "Modem consigliato Per TRE",
             "branch": "S",
-            "filename": "modemNEKF3-tre.zip",
+            "filename": "modemNEKF3_tre.zip",
             "Screenshots": [
             ]
         },
@@ -494,7 +494,7 @@
             "version": "NEKI2",
             "description": "Modem consigliato Per TRE",
             "branch": "S",
-            "filename": "ModemNEKI2-tre.zip",
+            "filename": "ModemNEKI2_tre.zip",
             "Screenshots": [
             ]
         },
@@ -542,7 +542,7 @@
             "version": "KG5",
             "description": "Modem Consigliato per Wind",
             "branch": "S",
-            "filename": "ModemKG5-wind.zip",
+            "filename": "ModemKG5_wind.zip",
             "Screenshots": [
             ]
         },  
@@ -566,7 +566,7 @@
             "version": "KE4",
             "description": "Modem consigliato per Tim",
             "branch": "S",
-            "filename": "ModemKE4-tim.zip",
+            "filename": "ModemKE4_tim.zip",
             "Screenshots": [
             ]
         },  
