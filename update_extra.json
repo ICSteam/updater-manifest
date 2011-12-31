@@ -101,6 +101,18 @@
             "Screenshots": [ 
             ]
          },
+          {   
+            "mod": "*",
+            "board": "GT-I9100",
+            "type": "extra",
+            "name": "*EXTRA* Touchwiz 4.5",
+            "version": "XWKK5",
+            "description": "touchwiz 4.5",
+            "branch": "S",
+            "filename": "VoiceCommands.zip",
+            "Screenshots": [ 
+            ]
+         },
             
           {   
             "mod": "*",
