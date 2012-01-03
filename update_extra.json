@@ -112,7 +112,7 @@
             "filename": "TW4.5.zip",
             "Screenshots": [ 
             ]
-         },
+         },  
             
           {   
             "mod": "*",
@@ -122,7 +122,7 @@
             "version": "XWKK5",
             "description": "Offline Voice commands",
             "branch": "S",
-            "filename": "VoiceCommands.zip",
+            "filename": "VoiceCommands_offline.zip",
             "Screenshots": [ 
             ]
          },
