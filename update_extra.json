@@ -632,7 +632,7 @@
             "board": "GT-I9100",
             "type": "extra",
             "name": "*MODEM* KP1",
-            "version": "KP1",
+            "version": "",
             "description": "",
             "branch": "S",
             "filename": "Modem_KP1.zip",
