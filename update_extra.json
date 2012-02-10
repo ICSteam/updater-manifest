@@ -195,11 +195,11 @@
             "mod": "*",
             "board": "GT-I9100",
             "type": "extra",
-            "name": "*HACK*CameraHack KL1.zip",
+            "name": "*HACK*CameraHack KL1",
             "version": "",
             "description": "CameraHack",
             "branch": "S",
-            "filename": "camera hack KL1.zip",
+            "filename": "camera_hack_KL1.zip",
             "Screenshots": [
             ]
         },
