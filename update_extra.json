@@ -7,7 +7,7 @@
     	
     	{   
             "mod": "*",
-            "board": "GT-I9100",
+            "board": "smdk4210",
             "type": "extra",
             "name": "*FIX KERNEL* Abyss Plus Recovery 3.0",
             "version": "Recovery 5 ",
